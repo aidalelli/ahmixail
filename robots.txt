@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://biashocee.andrejcimpersek.com/sitemap.xml
